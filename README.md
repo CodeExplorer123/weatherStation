@@ -1,7 +1,8 @@
 # Weather Station Control System
 
 This is an Arduino-based weather station control system that gathers data from various sensors including temperature, humidity, pressure, and wind. It utilizes the ESP32 microcontroller to communicate with the sensors and transmit the data over WiFi. The system is designed to log the data to an SD card and send it to a remote server via HTTP for further analysis.
-This is not a ready made sollutions, you will need to tinker with this code.
+
+*This is not a ready made solutions, you will need to tinker with this code.*
 
 ## Features
 
