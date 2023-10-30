@@ -45,4 +45,4 @@ This is not a ready made sollutions, you will need to tinker with this code.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
